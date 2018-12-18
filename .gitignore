@@ -1,0 +1,46 @@
+*.py[cod]
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
+__pycache__
+
+# Installer logs
+pip-log.txt
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+.idea
+.cache
+
+#virtualenv
+venv
+
+.vscode
+
+# npm modules
+node_modules
+npm-debug.log
+
+# static libraries / build dir
+static/bundles
+static/django
+
+# git
+*.orig
